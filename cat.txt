@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+많이 참았다?
+=======
 
 우리집 고양이 이름은?
 
@@ -18,3 +21,4 @@ rubber
 mark
 meowmeowmeoweweoirjo
 
+>>>>>>> origin/main
